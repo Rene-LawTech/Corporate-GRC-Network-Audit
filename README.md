@@ -26,7 +26,8 @@ A technical network is only as effective as the governance structure driving it.
 * **Regulatory Alignment:** Mapped technical access controls directly to **GDPR Article 25 (Privacy by Design)** and **NIST CSF** frameworks.
 * **Liability Mitigation:** Outlined clear administrative boundaries to reduce corporate compliance liability and protect proprietary client data points.
 
-📄 **[Click Here to Read the Full Information Security Policy PDF](./Rene_Information_Security_Policy_Audit_2026.pdf)**
+📄 **[Click Here to Read the Full Information Security Policy Document](./Rene_Information_Security_Policy_Audit_2026.md)**
+
 
 ---
 
